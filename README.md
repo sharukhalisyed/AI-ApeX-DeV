@@ -65,5 +65,5 @@
 <!--END_SECTION:waka-->
 
 ## 💰 PLEASE HELP ME BY DONATING 
-  [![Buy Me a BOOK](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shahsai11111) 
+  [![Buy Me a BOOK](https://img.shields.io/badge/Buy%20Me%20a%20BOOK-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shahsai11111) 
 
