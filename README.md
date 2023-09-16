@@ -16,10 +16,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharukhali-farookali-naziyabegum-syed-2817bb272/)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SHAHSAI) [![GCP](https://img.shields.io/badge/PortFolio-%23FF0000.svg?logo=YouTube&logoColor=blue)](https://ai-apex-dev.github.io/SHAHSAI.github.io/) 
 
 # 💻 Tech Stack:
-[TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-[Flask](https://img.shields.io/badge/Flask-%2300A98F.svg?style=for-the-badge&logo=Flask&logoColor=white)
-[Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
-[HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%2300A98F.svg?style=for-the-badge&logo=Flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 [CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 [JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
 [Google Cloud Platform (GCP)](https://img.shields.io/badge/Google%20Cloud%20Platform-%234285F4.svg?style=for-the-badge&logo=Google%20Cloud&logoColor=white)
