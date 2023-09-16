@@ -1,7 +1,7 @@
 ![Banner](https://i.postimg.cc/tgVyfypV/image.png)
 
 <h1 align="center">Very Good Day to ALL🙌, I'm Syed Sharukhali Farookali Naziyabegum💫</h1>
-<h3 align="center">President @Mind Benders , Institue Winner @GFG Solving for INDIA Hackathon, AIR 135 @ Code Combat 3.0, Rank 1 @ Shastra Coding Contest, Runner up @ inter dept Debate competition</h3>
+<h3 align="center">President @Mind Benders , Institue Winner @GFG Solving for INDIA Hackathon, AIR 135 @ Code Combat 3.0, Rank 1 @ Shastra Coding Contest 3, Runner up @ inter dept Debate competition, CSI Hackathon runner-up</h3>
 <h3 align="center">Code, Eat, Sleep & Make this world a better place for living beings</h3>
 
 
@@ -10,7 +10,7 @@
 
 # 💫 About Me:
 <img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<br>👯 I’m looking to collab on Community & Content<br><br>🌱 I’m currently learning TensorFlow , Supabase & React<br><br>💬 Ask me about Machine Learning/AI , Linux and Open Source<br><br>📫 How to reach me shahsai11111@gmail.com<br><br>⚡ Work Hard and Make this world a better place for all living beings.<br>
+<br>👯 I’m a AI & ML Enthusiast<br><br>🌱 I’m currently doing competitive programming & DSA <br><br>💬 I am always ready to help & contribute for a good cause<br><br>📫 How to reach me shahsai11111@gmail.com<br><br>⚡ Work Hard and Make this world a better place for all living beings.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharukhali-farookali-naziyabegum-syed-2817bb272/)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SHAHSAI) [![GCP](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://ai-apex-dev.github.io/SHAHSAI.github.io/) 
