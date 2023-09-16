@@ -13,7 +13,7 @@
 <br>👯 I’m a AI & ML Enthusiast<br><br>🌱 I’m currently doing competitive programming & DSA <br><br>💬 I am always ready to help & contribute for a good cause<br><br>📫 How to reach me shahsai11111@gmail.com<br><br>⚡ Work Hard and Make this world a better place for all living beings.<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharukhali-farookali-naziyabegum-syed-2817bb272/)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SHAHSAI) [![GCP](https://img.shields.io/badge/PortFolio-%23FF0000.svg?logo=YouTube&logoColor=blue)](https://ai-apex-dev.github.io/SHAHSAI.github.io/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/sharukhali-farookali-naziyabegum-syed-2817bb272/)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=red)](https://youtube.com/@SHAHSAI) [![Portfolio](https://img.shields.io/badge/PortFolio-%23FF0000.svg?logo=YouTube&logoColor=blue)](https://ai-apex-dev.github.io/SHAHSAI.github.io/) [![GCP](https://img.shields.io/badge/GCP-%23FF0000.svg?logo=GCP&logoColor=green)](https://www.cloudskillsboost.google/public_profiles/7322d512-7cb2-452e-9746-9432ea161f52) 
 
 # 💻 Tech Stack:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
