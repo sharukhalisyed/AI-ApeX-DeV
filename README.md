@@ -2,7 +2,7 @@
 
 <h1 align="center">Very Good Day to ALL🙌, I'm Syed Sharukhali Farookali Naaz💫</h1>
 <h3 align="center">President @Mind Benders , Institue Winner @GFG Solving for INDIA Hackathon, AIR 135 @ Code Combat 3.0, Rank 1 @ Shastra Coding Contest 3, Runner up @ inter dept Debate competition, CSI Hackathon runner-up</h3>
-<h3 align="center">Code, Eat, Sleep & Make this world a better place for living beings</h3>
+<h3 align="center">Code, Eat, Sleep & Make this world a better place for all living beings</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AI-ApeX-DeV&label=Profile%20Visitors&color=0e75b6&style=flat" alt="AI-ApeX-DeV" /> </p>
