@@ -5,7 +5,8 @@
 <h3 align="center">Code, Eat, Sleep & Make this world a better place for all living beings</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AI-ApeX-DeV&label=Profile%20Visitors&color=0e75b6&style=flat" alt="AI-ApeX-DeV" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AI-ApeX-DeV&label=Profile%20Visitors&color=0e75b6&style=flat" alt="AI-ApeX-DeV" style="width: 150px; height: 30px;" /> </p>
+
 
 
 # 💫 About Me:
