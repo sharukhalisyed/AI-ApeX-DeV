@@ -17,7 +17,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/sharukhali-farookali-naziyabegum-syed-2817bb272/)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=red)](https://youtube.com/@SHAHSAI) [![Portfolio](https://img.shields.io/badge/PortFolio-%23FF0000.svg?logo=web&logoColor=blue)](https://ai-apex-dev.github.io/SHAHSAI.github.io/) [![GCP](https://img.shields.io/badge/GCP-%23FF0000.svg?logo=google&logoColor=grey)](https://www.cloudskillsboost.google/public_profiles/7322d512-7cb2-452e-9746-9432ea161f52) 
-
+[![An image of @aiapexdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aiapexdev)](https://holopin.io/@aiapexdev)
 # 💻 Tech Stack:
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-%2300A98F.svg?style=for-the-badge&logo=Flask&logoColor=white)
