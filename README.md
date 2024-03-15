@@ -1,19 +1,4 @@
-![Banner](https://i.postimg.cc/tgVyfypV/image.png)
 
-<h1 align="center">Very Good Day to ALL🙌, I'm Syed Sharukhali Farookali Naaz💫</h1>
-<h3 align="center">President @Mind Benders , Institue Winner @GFG Solving for INDIA Hackathon, AIR 135 @ Code Combat 3.0, Rank 1 @ Shastra Coding Contest 3, Runner up @ inter dept Debate competition, CSI Hackathon runner-up</h3>
-<h3 align="center">Code, Eat, Sleep & Make this world a better place for all living beings</h3>
-<br>
-<h3 align="center">Fun Fact about me 😄: While working on projects sometimes I get so involved that I don't sleep at night 🌙, but sometimes due to errors 😤 I get so frustrated that I feel like 💥🔥 destroying my machine 🖥️ and go to sleep immediately 😴. But in the end, it's all part of the journey! 🚀😅</h3>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AI-ApeX-DeV&label=Profile%20Visitors&color=0e75b6&style=flat" alt="AI-ApeX-DeV" style="width: 150px; height: 30px;" /> </p>
-
-
-
-# 💫 About Me:
-<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
-<br>👯 I’m a AI & ML Enthusiast<br><br>🌱 I’m currently doing competitive programming & DSA <br><br>💬 I am always ready to help & contribute for a good cause<br><br>📫 How to reach me shahsai11111@gmail.com<br><br>⚡ Work Hard and Make this world a better place for all living beings.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/sharukhali-farookali-naziyabegum-syed-2817bb272/)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=red)](https://youtube.com/@SHAHSAI) [![Portfolio](https://img.shields.io/badge/PortFolio-%23FF0000.svg?logo=web&logoColor=blue)](https://ai-apex-dev.github.io/SHAHSAI.github.io/) [![GCP](https://img.shields.io/badge/GCP-%23FF0000.svg?logo=google&logoColor=grey)](https://www.cloudskillsboost.google/public_profiles/7322d512-7cb2-452e-9746-9432ea161f52) 
