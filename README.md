@@ -5,7 +5,7 @@
 </h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 
-<h3 align="center">A Developer who writes code like it's poetry, except my poems occasionally crash and need debugging. Problem-solving is a brain-draining rollercoaster that occasionally makes me want to throw my keyboard out the window, but the thrill of cracking the puzzle and seeing everything click into place? That's pure satisfaction. Let's build something great together, one bug at a time!"</h3>
+<h3 align="center">A Developer who writes code like it's poetry, except my poems occasionally crash and need debugging. Problem-solving is a brain-draining rollercoaster that occasionally makes me want to throw my keyboard out the window, but the thrill of cracking the puzzle and seeing everything click into place? That's pure satisfaction. Let's build something great together, one bug at a time!</h3>
 
 ![gitartwork](gitartwork.svg)
 
