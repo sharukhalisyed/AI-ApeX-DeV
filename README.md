@@ -1,56 +1,86 @@
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
+<h3 align="center">A Developer who writes code like it's poetry, except my poems occasionally crash and need debugging. Problem-solving is a brain-draining rollercoaster that occasionally makes me want to throw my keyboard out the window, but the thrill of cracking the puzzle and seeing everything click into place? That's pure satisfaction. Let's build something great together, one bug at a time!"</h3>
+
+![gitartwork](gitartwork.svg)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/sharukhali-farookali-naziyabegum-syed-2817bb272/)[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=red)](https://youtube.com/@SHAHSAI) [![Portfolio](https://img.shields.io/badge/PortFolio-%23FF0000.svg?logo=web&logoColor=blue)](https://ai-apex-dev.github.io/SHAHSAI.github.io/) [![GCP](https://img.shields.io/badge/GCP-%23FF0000.svg?logo=google&logoColor=grey)](https://www.cloudskillsboost.google/public_profiles/7322d512-7cb2-452e-9746-9432ea161f52) 
-[![An image of @aiapexdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aiapexdev)](https://holopin.io/@aiapexdev)
-# 💻 Tech Stack:
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%2300A98F.svg?style=for-the-badge&logo=Flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)
-![Google Cloud Platform (GCP)](https://img.shields.io/badge/Google%20Cloud%20Platform-%234285F4.svg?style=for-the-badge&logo=Google%20Cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=Heroku&logoColor=white)
-![Jinja](https://img.shields.io/badge/Jinja-%23000000.svg?style=for-the-badge&logo=jinja&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=C&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=Python&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
-!![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=Express&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811.svg?style=for-the-badge&logo=Power%20BI&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker-%232674A6.svg?style=for-the-badge&logo=Looker&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-%230075A8.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=Anaconda&logoColor=white)
-![Shell Scripting](https://img.shields.io/badge/Shell%20Scripting-%23121011.svg?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+<h3 align="left">🌐 Connect with me:</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/sharukhali-farookali-naziyabegum-syed-2817bb272/)
+[![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/7322d512-7cb2-452e-9746-9432ea161f52)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF0000.svg?logo=web&logoColor=blue)](https://ai-apex-dev.github.io/SHAHSAI.github.io/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:example@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/your-user-id)
 
 
-  
+
+## My Profile
+
+| **Experience**                                                                                   | **Education**                                             | **Volunteer/Opensource Contribution**                                 | **Achievements**                                                                                                                                                                                                                  |
+|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **SWE Intern** <br> Infosys - Remote Mumbai INDIA<br> Apr 2024 - Jun 2024 <br> - Developed an interactive map feature <br> - Implemented Hashing and Encryption <br> - Resolved timeslot conflicts <br> <br> **Full Stack Intern** <br> Persist Ventures -Remote Los Angeles, California, USA <br> Jul 2023 - Oct 2023 <br> -Developed a Chrome extension leveraging ML that<br>autonomously populate form fields from user-uploaded PDFs<br> <br> **AI & ML Developer** <br> TCET Open Source -Hybrid Mumbai, INDIA<br> 2023 - Present <br> - Maintainer of Resume Screener Project <br> - Assign issues, discuss ideas for upcoming projects <br> - resolve developer queries and maintain the Project Repository. | **Bachelor’s Technology** (Pursuing) <br> Thakur College of Engineering and Technology <br> 2025 <br> - CGPA: 9.94/10 <br> <br> **Higher Secondary Education** <br> Bhartiya Vidya Bhavans Institute of Science <br> 2020 <br> - JEE Mains: 90.89% <br> - MHTCET: 95.19% <br><br> **High School** <br> St. John The Evangelist High School <br> 2018 <br> - School Rank: 2 <br> - 93% <br><br><br><br><br><br><br>| **President** <br> Mind Benders Club <br> 2019 - Present <br> - Organized club activities <br> - Led initiatives to foster innovation <br><br> **Social Summer of Code 24 Contributor** <br> --**CopilotKit** Integrated copilotkit for better user experience <br> --**Shepherd.Js** Integrated shepherd.js for better user Walkthrough <br> --**LLMWare** Used llmware model for chatbot widget <br><br> **Editorial Board Core** <br> Byte Magazine <br> 2019 - Present <br> - Managed content <br> - Coordinated with writers <br><br><br><br><br><br><br><br><br><br><br>| ❖ Hackspiraton’24 Hackathon Solidity Scan Track Bounty winner <br> ❖ Solving for India Hack Regional Qualifier powered by Google & AMD  <br> ❖ Global Rank 677 @ LeetCode Biweekly contest-132 <br> ❖ All INDIA Rank 135 : Coding Ninjas Code Combat 3.0 <br> ❖ Nexathon 4.0 Hackathon Winner <br> ❖ Rank 1 @ HackerRank SSC-3 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>|
+
+
+
+
+
+
+## SKILLS
+
+| Languages          | Databases            | DevOps       | Frameworks              | Tools                       | Others                      |  
+|--------------------|----------------------|--------------|-------------------------|-----------------------------|-----------------------------|
+| C/C++              | SQLite               | CI/CD        | Spring Boot             | Git                         | Computer Networks           |
+| Java               | PostgreSQL           | Docker       | NodeJS                  | Linux                       | Operating Systems           |
+| Python             | MongoDB              | Jenkins      | ReactJS                 | Docker                      | System Design               |
+| TypeScript         | Firebase             |              | Express.js              | GCP                         | Microservices               |
+| Solidity           |                      |              | Django                  | AWS                         | Cloud Computing             |
+| Rust               |                      |              | Flask                   | Cisco Packet Tracer         |                             |
+|                    |                      |              |                         | GitHub                      |                             |
+|                    |                      |              |                         | Soroban SDK, Stellar        |                             |
+|                    |                      |              |                         | MetaMask, Freighter Wallet  |                             |
+## 💫 Github Stats
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/ai-apex-dev">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ai-apex-dev&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ai-apex-dev&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ai-apex-dev&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ai-apex-dev&theme=highcontrast" height="180em" />
+</div>
 <br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
+<h4 align="left">My Hactoberfest 2022 & 2023 Badges:</h4>
+
+
+[![An image of @ai-apex-dev Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aiapexdev)](https://holopin.io/@aiapexdev)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+
+<!--
+# 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/SHAHSAI?theme=dark&font=Josefin%20Slab&ext=heatmap)
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=ai-apex-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ai-apex-dev&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ai-apex-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
+-->
+# ✍️ Dev Quote
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ## 💰 If you like my work ->
   [![Buy Me a BOOK](https://img.shields.io/badge/Buy%20Me%20a%20BOOK-ffdd00?style=for-the-badge&logo=buy-me-a-BOOK&logoColor=black)](https://buymeacoffee.com/shahsai11111) 
