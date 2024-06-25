@@ -15,7 +15,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/sharukhali-farookali-naziyabegum-syed-2817bb272/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/7322d512-7cb2-452e-9746-9432ea161f52)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF0000.svg?logo=web&logoColor=blue)]((https://sharukhalisyed.tech/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF0000.svg?logo=web&logoColor=blue)](https://sharukhalisyed.tech/)
 [![Leetcode](https://img.shields.io/badge/Leetcode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/SHAHSAI/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:shahsai11111@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cW2eQW9J)
