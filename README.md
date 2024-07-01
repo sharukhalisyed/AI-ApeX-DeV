@@ -44,8 +44,8 @@
 | Solidity           |                      |              | Django                  | AWS                         | Cloud Computing             |
 | Rust               |                      |              | Flask                   | Cisco Packet Tracer         |                             |
 |                    |                      |              |                         | GitHub                      |                             |
-|                    |                      |              |                         | Soroban SDK, Stellar        |                             |
-|                    |                      |              |                         | MetaMask, Freighter Wallet  |                             |
+|                    |                      |              |                         |                             |                             |
+|                    |                      |              |                         |                             |                             |
 ## 💫 Github Stats
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
