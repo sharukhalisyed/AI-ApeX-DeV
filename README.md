@@ -14,7 +14,7 @@
 <h3 align="left">🌐 Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/sharukhali-farookali-naziyabegum-syed-2817bb272/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/shahsai11111)
+[![Twitter](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/shahsai11111)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/7322d512-7cb2-452e-9746-9432ea161f52)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF0000.svg?logo=web&logoColor=blue)](https://sharukhalisyed.tech/)
 [![Leetcode](https://img.shields.io/badge/Leetcode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/SHAHSAI/)
